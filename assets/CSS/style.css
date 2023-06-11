@@ -156,3 +156,10 @@ footer {
  background-color: grey;
  border-radius: 5px;
 }
+
+.more-articles {
+    font-family: "roboto slab";
+    display: flex;
+    padding: 4px 4px 4px 4px;
+    border-top: lightgray solid 1px;
+}
