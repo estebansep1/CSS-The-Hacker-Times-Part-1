@@ -6,7 +6,9 @@
 .date {
   text-align: left;
 }
-
+.header{
+    font-family: abril fatface;
+}
 body {
   background-color: #b9b9b9;
   border-style: solid;
@@ -162,4 +164,7 @@ footer {
     display: flex;
     padding: 4px 4px 4px 4px;
     border-top: lightgray solid 1px;
+}
+.maurice {
+    font-style: bold;
 }
